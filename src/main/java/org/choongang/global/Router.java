@@ -6,5 +6,5 @@ import org.choongang.global.constants.Menu;
 
 public interface Router {
     void change(Menu menu);
-    void start(); //
+    void start();
 }
